@@ -1,0 +1,9 @@
+# Ignore IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
