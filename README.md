@@ -31,7 +31,7 @@ This project demonstrates how a producer can send mock trade orders to a Kafka t
 
 ```bash
 git clone https://github.com/miqo-srapionyan/php-kafka-crypto-exchange.git
-cd php-kafka-crypto-exchange.git
+cd php-kafka-crypto-exchange
 ```
 
 ### 2. Start the services
